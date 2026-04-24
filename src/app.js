@@ -15,7 +15,7 @@ const options = {
   definition: {
     openapi: "3.0.0",
     info: {
-      title: "API Notas",
+      title: "API Studiantes",
       version: "1.0.0",
       description: "Microservicio de Estudiantes"
     },
